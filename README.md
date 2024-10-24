@@ -6,3 +6,5 @@ Contents:
 
 aws_resource_list.sh: A script to automate the process of listing all the resources in an aws account
 
+ebs_stale_snapshots.py: A script that identifies the EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
+
